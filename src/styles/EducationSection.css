@@ -1,0 +1,31 @@
+#education-section{
+    background-color: #99738E;
+    width: 100%;
+}
+.edu-container{
+    background-color: #553D67;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+h4{
+    font-size: 1.4rem;
+    margin: 0;
+}
+.margin-b{
+    margin-bottom: 0.5rem;
+}
+h5{
+    font-size: 1.1rem;
+    margin: 0;
+}
+.edu-list{
+    list-style: none;
+    margin: auto;
+    padding: 0;
+    width: 95%;
+    max-width: 680px;
+}
+.edu-title{
+    max-width: 75%;
+}
